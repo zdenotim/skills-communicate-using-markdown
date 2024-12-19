@@ -7,3 +7,6 @@
 ```python
 print("Hello World!")
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfotio
+- [ ] Introduce myself to the world
